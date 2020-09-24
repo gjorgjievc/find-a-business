@@ -1,0 +1,15 @@
+.footer {
+    padding: 1rem;
+    position: relative;
+    height: 20px;
+    color: #cca353;
+    border-top: 1px solid;
+  }
+
+.footer p {
+  float: right;
+}
+.footer a {
+  text-decoration: none;
+  color: #000;
+}  
